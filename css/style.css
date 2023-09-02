@@ -1,0 +1,39 @@
+/*font link*/
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=Poppins:wght@400;500;700&family=Roboto&family=Ubuntu:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&family=Playfair+Display:wght@400;700;900&family=Poppins:wght@400;500;700&family=Ubuntu:wght@300&display=swap');
+/*commom start*/
+body{
+	font-family:roboto,sans-serif; 
+	font-size: 16px;
+	font-weight: 400;
+}
+/*common end*/
+/*header start*/
+header{
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.c-nav{}
+.logo{}
+.menu{
+	font-size: 20px;
+	font-weight: 400;
+	padding: 220x; 
+}
+.menu ul li a{}
+.menu ul li a:hover{
+	color: #000000;
+}
+/*header end*/
+/*slider start*/
+.slider{
+	background-image: url(../images/backround.jpg)
+}
+.s-item{
+	margin-top: 200px;
+	margin-bottom: 200px;
+}
+.work{
+	background-image: url(../images/b1.jpg);
+}
+/*slider end*/
